@@ -95,11 +95,7 @@ BigQuery, Dataflow, Pub/Sub, Vertex AI
 </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=vinayyadav3214&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/vinayyadav3214?style=social)
 ---
 
 ## 🔥 Current Focus
